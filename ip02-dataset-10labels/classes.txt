@@ -1,0 +1,11 @@
+1  rice leaf roller 			
+2  rice leaf caterpillar 		
+3  paddy stem maggot 			
+4  asiatic rice borer 			
+5  yellow rice borer 			
+6  rice gall midge 			
+7  Rice Stemfly 	     		
+8  brown plant hopper 			
+9  white backed plant hopper 	
+10 small brown plant hopper 	
+				
